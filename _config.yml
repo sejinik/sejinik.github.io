@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "요리배우고 싶다"
 title_separator          : "-"
 name                     : "sejinik"
 description              : "An amazing website."
@@ -117,7 +117,7 @@ author:
       url: mailto:your.sejinik@gmail.com
     - label: "이전 블로그"
       icon: "fas fa-fw fa-link"
-      url: "https://tistory.com/sejinik"
+      url: "https://sejinik.tistory.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
